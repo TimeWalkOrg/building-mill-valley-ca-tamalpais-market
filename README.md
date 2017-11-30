@@ -17,7 +17,7 @@ In the 1920s this building (describe the building purpose in 1920)...
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
 
-![SketchUp Make 2017 model screenshot](xxx)
+![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-tamalpais-market/blob/master/tamalpais-market-1920.jpg)
 
 ### Online references & photographs
 * tbd
