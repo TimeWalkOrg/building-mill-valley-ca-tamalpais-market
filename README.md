@@ -8,13 +8,11 @@ Mill Valley Market was founded on July 4th 1929 by Frank Canepa. The store start
 - Built: c.tbd
 - Replaced: c.tbd
 - Architect: tbd
-- Library link: tbd
 
 
 ## SketchUp Model
-
 - Made by Benjamin Grant
-- Model completed: December, 2017
+- Model completed: (still in progress)
 - Modeled in SketchUp Make 2017
 
 ![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-tamalpais-market/blob/master/tamalpais-market-1920.jpg)
